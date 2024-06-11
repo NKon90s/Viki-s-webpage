@@ -5,5 +5,5 @@ It is purely for educational purposes.
 
 
 
-The website is currently not complete. There icons on the icon bar are pointing to nowhere. 
+The website is currently not complete. There are icons on the icon bar are pointing to nowhere. 
 The completion of this project requires further work.
