@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gloomaps scheme="1.0">
+  <link>https://www.gloomaps.com/bjHGEtHvYl</link>
+  <pubdate>06/11/2024</pubdate>
+  <section>
+    <box>
+      <text>Bober's Applewatch (landing page)</text>
+      <propa>#90b9db</propa>
+      <member>
+        <box>
+          <text>Apple watch logo</text>
+          <propa>#e096e0</propa>
+          <member>
+            <box>
+              <text>Landing page</text>
+              <propa>#a6e6b6</propa>
+              <member>
+                <box>
+                  <text>Article with picture I.</text>
+                  <member/>
+                </box>
+                <box>
+                  <text>Article with picture II.</text>
+                  <member/>
+                </box>
+                <box>
+                  <text>Inserted commercial video</text>
+                  <propa>#ffffff</propa>
+                  <propb>#000000</propb>
+                  <propc>Lato</propc>
+                  <propd>100%</propd>
+                  <member/>
+                </box>
+              </member>
+            </box>
+          </member>
+        </box>
+        <box>
+          <text>The rolldown menu logo</text>
+          <propa>#e096e0</propa>
+          <member>
+            <box>
+              <text>Apple Watch series I.</text>
+              <propa>#a6e6b6</propa>
+              <member>
+                <box>
+                  <text>Description and pictures of the product</text>
+                  <member/>
+                </box>
+                <box>
+                  <text>Price</text>
+                  <member/>
+                </box>
+                <box>
+                  <text>"Buy button"</text>
+                  <propa>#ffffff</propa>
+                  <propb>#000000</propb>
+                  <propc>Lato</propc>
+                  <propd>100%</propd>
+                  <member/>
+                </box>
+              </member>
+            </box>
+            <box>
+              <text>Apple Watch series II.</text>
+              <propa>#a6e6b6</propa>
+              <propb>#000000</propb>
+              <propc>Lato</propc>
+              <propd>100%</propd>
+              <member>
+                <box>
+                  <text>Description and pictures of the product</text>
+                  <member/>
+                </box>
+                <box>
+                  <text>Price</text>
+                  <member/>
+                </box>
+                <box>
+                  <text>"Buy button"</text>
+                  <member/>
+                </box>
+              </member>
+            </box>
+            <box>
+              <text>Apple Watch series III.</text>
+              <propa>#a6e6b6</propa>
+              <propb>#000000</propb>
+              <propc>Lato</propc>
+              <propd>100%</propd>
+              <member>
+                <box>
+                  <text>Description and pictures of the product</text>
+                  <member/>
+                </box>
+                <box>
+                  <text>Price</text>
+                  <member/>
+                </box>
+                <box>
+                  <text>"Buy button"</text>
+                  <member/>
+                </box>
+              </member>
+            </box>
+          </member>
+        </box>
+        <box>
+          <text>The globe logo</text>
+          <propa>#e096e0</propa>
+          <member>
+            <box>
+              <text>Footer</text>
+              <propa>#a6e6b6</propa>
+              <member/>
+            </box>
+          </member>
+        </box>
+        <box>
+          <text>Magnifying glass logo</text>
+          <propa>#e096e0</propa>
+          <member>
+            <box>
+              <text>Arrives at certain parts of the site depending on the "search words"</text>
+              <propa>#a6e6b6</propa>
+              <member/>
+            </box>
+          </member>
+        </box>
+        <box>
+          <text>Shopping cart</text>
+          <propa>#e096e0</propa>
+          <member>
+            <box>
+              <text>Items added to cart</text>
+              <propa>#a6e6b6</propa>
+              <member/>
+            </box>
+            <box>
+              <text>Payable amount</text>
+              <propa>#a6e6b6</propa>
+              <propb>#000000</propb>
+              <propc>Lato</propc>
+              <propd>100%</propd>
+              <member/>
+            </box>
+            <box>
+              <text>Billing and shipping info</text>
+              <propa>#a6e6b6</propa>
+              <propb>#000000</propb>
+              <propc>Lato</propc>
+              <propd>100%</propd>
+              <member/>
+            </box>
+            <box>
+              <text>Payment method</text>
+              <propa>#a6e6b6</propa>
+              <propb>#000000</propb>
+              <propc>Lato</propc>
+              <propd>100%</propd>
+              <member/>
+            </box>
+            <box>
+              <text>Confirm purchase</text>
+              <propa>#a6e6b6</propa>
+              <propb>#000000</propb>
+              <propc>Lato</propc>
+              <propd>100%</propd>
+              <member/>
+            </box>
+          </member>
+        </box>
+      </member>
+    </box>
+  </section>
+</gloomaps>
