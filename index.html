@@ -1,25 +1,40 @@
 <!DOCTYPE html>
+
+/* in this block we set the default language of the website. The scales and width. Furthermore we reference the libraries (the sytesheet) we use 
+for the logos we use on the website */
+
 <html lang="en">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+/* The title (or landing page) of the website with the corresponding css link, that 
+    contains the selectors making the UI more appealing */
+    
 <head>
     <title>AppleWatch</title>
     <link rel = "stylesheet" href = "style.css">
 </head>
 
+/* The main content of the website */    
 <body>
 
+/* Here we created a header, where we inserted a picture as well */
     <div class="header">
         <img src ="pngegg.png" alt = "Bober" class ="bober">
         Bober's Applewatch
     </div>
-
+    
+/* This code block is for the icon-bar. The icon bar is a typical slide bar. The first logo is an apple logo, which will 
+    point to the landing page */
+    
     <div class="icon-bar">
         <a class="active" href="#"><img src ="Apple Watch.png" alt = "appleLogo" class ="appleLogo"></a> 
         <a href="#"><i class="fa fa-th-list"></i></a> 
         <a href="#"><i class="fa fa-globe"></i></a>
         <a href="#"><i class="fa fa-search"></i></a> 
     </div>
+
+/* The content of the first article box */
     
     <div class = "article-box">
         <div class="paragraph">
@@ -29,6 +44,8 @@
             </p>
         </div>
     </div>
+
+/* The picture next to the first article box. The picture is dowloaded and in the same directory as the index.html file */    
     
     <div class="picture-container">
         <div class = "picture-box">
@@ -36,6 +53,8 @@
         </div>
     </div>
 
+/* The content of the second article box */
+    
     <div class = "article-box2">
         <div class="paragraph">
             <h2>Why Apple Watch?</h2>
@@ -44,6 +63,8 @@
             </p>
         </div>
     </div>
+
+/* The picture next to the second article box. The picture is dowloaded and in the same directory as the index.html file */ 
     
     <div class="picture-container2">
         <div class = "picture-box2">
@@ -51,10 +72,15 @@
         </div>
     </div>
 
+
+/* Inserted youtube link, which is a direct link to an Apple watch commercial */
+    
     <div class = "video-container">
         <iframe width="820" height="575" src="https://www.youtube.com/embed/Nvb_Kta7v6U?si=J8tDsrY6oZbsnQmB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>    
 
+/* the code block for the footer, that contains information and contact to the owner of the website */
+    
     <div class ="footer-box">
         <div class="footer">
             <h2>Contact info</h2>
