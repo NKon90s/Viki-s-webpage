@@ -1,0 +1,148 @@
+
+body {
+  background: rgb(235,235,235);
+  background: radial-gradient(circle, rgba(235,235,235,1) 0%, rgb(222, 217, 217) 100%);
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+
+.icon-bar {
+  width: 100%;
+  background-color: #555;
+  overflow: hidden;
+  box-shadow: 20px 20px 50px 10px grey;
+  border-radius: 10px;
+}
+
+.icon-bar a {
+  float: left;
+  width: 25%;
+  text-align: center;
+  padding: 6px 0;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 32px;
+}
+
+.icon-bar a:hover {
+  background-color: #313030;
+  opacity: 0.5;
+}
+
+.active {
+  background-color: #fafafa;
+}
+
+.appleLogo {
+    width: 30%;
+    height: auto;
+    vertical-align: auto;
+}
+
+.bober {
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
+}
+
+.header {
+  background-color: #070707;
+  text-align: center;
+  padding: 6px 0;
+  -webkit-text-fill-color: white ;
+}
+
+.article-box {
+  max-width: 450px; 
+  margin: 200px; 
+  margin-top: 180px;
+  padding: 10px; 
+  background-color: rgba(0,0,0,0); 
+  border: 1px solid rgba(0,0,0,0); 
+}
+
+.paragraph {
+  text-align: justify; 
+  color: #686565;
+  font-size: 20px;
+  line-height: 1.8; 
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.paragraph h2 {
+  color: #686565;
+  font-size: 36px;
+  font-family: "San Francisco", Arial, sans-serif;
+}
+
+.paragraph p {
+  margin-top: 10px; 
+}
+
+.picture-container {
+  position: relative;
+  width: 100%; 
+  height: 100vh; 
+}
+
+.picture-box {
+  position: absolute; 
+  top: -38%; 
+  right: 10%; 
+  transform: translate(0, -70%); 
+}
+
+.watches {
+  max-width: 100%;
+  width: 600px;
+  height: auto;
+}
+
+
+.article-box2 {
+  max-width: 450px; 
+  margin: 200px; 
+  margin-top: -830px;
+  padding: 10px; 
+  background-color: rgba(0,0,0,0); 
+  border: 1px solid rgba(0,0,0,0);
+  float: right; 
+  margin-right: 200px;
+}
+
+
+.picture-container2 {
+  position: relative;
+  width: 100%; 
+  height: 100vh; 
+}
+
+.picture-box2 {
+  position: absolute; 
+  top: -70%; 
+  left: 10%; 
+  transform: translate(0, -70%); 
+}
+
+.watches2 {
+  max-width: 100%;
+  width: 600px;
+  height: auto;
+}
+
+
+.video-container {
+  text-align: center; 
+  margin-top: -1300px;
+  top: -50%;
+  z-index: 1;
+  position: relative;
+}
+
+
+.footer {
+  padding: 100px;
+  text-align: center;
+  background: #000000;
+  margin-top: 20px;
+  -webkit-text-fill-color: #fafafa;
+}
